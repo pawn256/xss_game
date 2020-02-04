@@ -1,0 +1,8 @@
+data:application/javascript;charset=utf-8;base64,YWxlcnQoMSk7
+
+-------------------
+javascript code
+
+base64 encode
+btoa("alert(1);"); // = YWxlcnQoMSk7
+
