@@ -6,3 +6,7 @@ javascript code
 base64 encode
 btoa("alert(1);"); // = YWxlcnQoMSk7
 
+-------------------
+another answer
+
+data:,alert()
